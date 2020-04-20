@@ -4280,10 +4280,6 @@
          check after reboot or airplane mode toggling -->
     <bool translatable="false" name="reset_geo_fencing_check_after_boot_or_apm">false</bool>
     
-    
-    <!-- Component name of popup camera service -->
-    <string name="config_popUpCameraServiceComponentName" translatable="false"></string>
-    
      <!-- Library path of screen off fod handler -->
     <string name="config_fodScreenOffHandlerLib" translatable="false"></string>
 

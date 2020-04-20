@@ -19,7 +19,6 @@
 */
 package com.android.internal.util.custom.popupcamera;
 
-<<<<<<< HEAD
 import android.content.Context;
 import android.provider.Settings;
 import android.os.UserHandle;
@@ -50,8 +49,6 @@ public class PopUpCameraUtils {
                 Settings.System.POPUP_CAMERA_BATTERY_LED_BLOCKED, blocked ? 1 : 0,
                 UserHandle.USER_CURRENT);
     }
-=======
-public class PopUpCameraUtils {
-    public static String MANAGE_POPUP_CAMERA_SERVICE_PERMISSION = "org.evolution.device.MANAGE_POPUP_CAMERA_SERVICE";
->>>>>>> 3de4b93bbec... fwb: Start device specific popup camera service conditionally
+
+
 }
